@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: agent piyush
+pool: piyush
 
 variables:
   buildConfiguration: 'Release'
