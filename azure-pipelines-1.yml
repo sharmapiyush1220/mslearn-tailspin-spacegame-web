@@ -6,7 +6,7 @@
 trigger:
 - '*'
 
-pool: Aure Pipelines
+pool: Azure Pipelines
 
 steps:
 - task: UseDotNet@2
