@@ -6,7 +6,7 @@
 trigger:
 - '*'
 
-pool: piyush
+pool: Azure Pipelines
 
 variables:
   buildConfiguration: 'Release'
